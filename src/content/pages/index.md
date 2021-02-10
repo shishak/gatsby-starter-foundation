@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Wyatt Morriss
 tagline: Graphic Designer
-featuredImage: /assets/kamenskih_potap11.jpg
+featuredImage: /assets/81-150x150.svg
 cta:
   ctaText: Know more
   ctaLink: /about
